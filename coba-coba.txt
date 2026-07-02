@@ -1,3 +1,3 @@
 -memahami git dan github
 -membuat repository
--membuat branch
+-memamhami fork
